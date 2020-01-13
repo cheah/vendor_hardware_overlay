@@ -61,6 +61,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-realme-x2pro \
 	treble-overlay-samsung-a30 \
 	treble-overlay-samsung-a50 \
+	treble-overlay-samsung-a60q \
 	treble-overlay-samsung-s10e \
 	treble-overlay-samsung-s9-systemui \
 	treble-overlay-sharp-s2 \
